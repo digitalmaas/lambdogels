@@ -1,6 +1,6 @@
 # @digitalmaas/lambdogels
 
-This is a simple fork of [dynogels]((https://github.com/clarkie/dynogels) v9.1.0, with the goal
+This is a simple fork of [dynogels](https://github.com/clarkie/dynogels) v9.1.0, with the goal
 of updating dependencies. The original projects seems dead, and we needed to move on.
 
 Changes:
